@@ -1,0 +1,18 @@
+#btn_regenerate.disable{
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.has-many-extra-wrap thead{
+	display: none!important;
+}
+
+.has-many-extra-wrap .has-many-extra-forms tr.column{
+	display: flex!important;
+    flex-direction: column!important;
+}
+
+.has-many-extra-wrap .has-many-extra-forms td .control-label{
+	display: block!important;
+    text-align: left!important;
+}
